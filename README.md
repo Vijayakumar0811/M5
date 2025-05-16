@@ -1,4 +1,7 @@
-EX-21-POINTERS
+## EX-21-POINTERS
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
@@ -41,7 +44,9 @@ Thus the program to convert a 23.65 into 25 using pointer has been executed succ
 
 
 # EX-22-FUNCTIONS AND STORAGE CLASS
+NAME: VIJAYAKUMAR S
 
+REG NO: 212224040359
 ## AIM:
 
 Write a C program to calculate the Product of first 12 natural numbers using Recursion
@@ -83,7 +88,9 @@ Thus the program has been executed successfully.
 
 
 # EX-23-ARRAYS AND ITS OPERATIONS
+NAME: VIJAYAKUMAR S
 
+REG NO: 212224040359
 ## AIM:
 
 Write C Program to find Sum of each row of a Matrix
@@ -133,7 +140,9 @@ int main()
 
 
 # EX-24-STRINGS
+NAME: VIJAYAKUMAR S
 
+REG NO: 212224040359
 ## AIM:
 
 Write C program for the below pyramid string pattern. Enter a string: PROGRAM Enter number of rows: 5 P R O G R A M P R O G R A M P R O G R A M
@@ -186,6 +195,9 @@ Thus the C program to String process executed successfully
 
 
 # EX -25 –DISPLAYING ARRAYS USING POINTERS
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM
 
 Write a c program to read and display an array of any 6 integer elements using pointer
